@@ -1,0 +1,12 @@
+# Ignorar arquivos de build
+/bin
+/obj
+
+# Ignorar arquivos de configuração locais que podem ter dados sensíveis
+/appsettings.json
+*.user
+*.suo
+
+# Ignorar arquivos temporários do Visual Studio
+.vscode/
+.idea/
